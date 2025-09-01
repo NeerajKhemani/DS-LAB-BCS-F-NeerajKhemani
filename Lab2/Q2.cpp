@@ -1,3 +1,10 @@
+/*Task #2:
+Write a program that uses a dynamic 2D array to represent a seating chart in a classroom.
+=> Rows represent benches, columns represent seats on each bench.
+=> Initialize the array with 0 (empty).
+=> Let the user fill seats (1 for occupied).
+=> Print the final seating chart in matrix form.*/
+
 #include <iostream>
 using namespace std;
 
