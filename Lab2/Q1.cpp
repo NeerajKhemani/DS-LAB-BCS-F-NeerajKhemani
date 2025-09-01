@@ -1,3 +1,10 @@
+/* Task #1:
+Implement a program that dynamically allocates a 1D array of integers.
+=> The size should be given by the user.
+=> Initialize all elements with zero.
+=> Then, let the user update values at different positions.
+=> Finally, print the array and deallocate memory properly. */
+
 #include <iostream>
 using namespace std;
 
