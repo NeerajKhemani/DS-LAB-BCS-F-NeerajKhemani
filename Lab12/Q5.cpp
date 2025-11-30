@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-#define MAX 10     // max nodes
-#define MAX_DEG 10 // max adjacency list size
+#define MAX 10    
+#define MAX_DEG 10 
 
 class Graph {
 public:
